@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a current Computer Science Student.
+
 <!--
 **ishitkanwar/ishitkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
